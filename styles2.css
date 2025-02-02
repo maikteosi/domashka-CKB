@@ -1,0 +1,48 @@
+body {
+    font-size: 24px;
+}
+p.green {
+    color: green;
+}
+p.red {
+    color: red;
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+li.blue {
+    color: blue;
+}
+li.yellow {
+    color: yellow;
+}    
+p span.xxsmall {
+    font-size: 10px;
+}
+p span.xsmall {
+    font-size: 20px;
+}
+p span.small {
+    font-size: 30px;
+}
+p span.medium {
+    font-size: 40px;
+}
+p span.large {
+    font-size: 50px;
+}
+p span.xlarge {
+    font-size: 60px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
